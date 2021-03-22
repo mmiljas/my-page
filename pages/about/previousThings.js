@@ -11,8 +11,18 @@ export default function PreviousThings() {
             Have a look at my previous projects!
             <ul>
                 <li><a href="https://quiz-json.herokuapp.com" className={styles.link}>Quiz-app</a></li>
+                <li><a href="https://telephone-ex.herokuapp.com/" className={styles.link}>Fullstack course</a></li>
             </ul>
         </p>
+        <p>
+            I also have a GitHub account!
+        </p>
+        <a href="https://www.github.com/mmiljas" target="_blank">
+          <Image src="/images/GitHub-Mark-Light-64px.png" // Route of the image file
+            height={60} // Desired size with correct aspect ratio
+            width={60} // Desired size with correct aspect ratio
+            alt="Linkedin"/>
+          </a>
         <p>
             Go {' '}<Link href="/">
                 <a className={styles.link}>back</a>
