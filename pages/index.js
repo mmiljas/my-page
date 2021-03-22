@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          This is my first personal website
+          This is a web-page created to showcase my personal projects.
         </p>
 
         <div className={styles.grid}>
