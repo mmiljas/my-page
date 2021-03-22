@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
-import styles from './previousThings.module.css' 
+import styles from './PreviousThings.module.css' 
 
 
 export default function PreviousThings() {
