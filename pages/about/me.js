@@ -3,7 +3,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 import Head from 'next/head'
 
-export default function me() {
+export default function Me() {
     return (
     <div className={styles.container}>
         <Image className={styles.pics} src="/images/munnaama.jpeg" // Route of the image file

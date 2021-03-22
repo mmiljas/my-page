@@ -3,7 +3,7 @@ import Link from 'next/link'
 import styles from './previousThings.module.css' 
 
 
-export default function previousThings() {
+export default function PreviousThings() {
     return (
     <div className={styles.container}>
         <h1>Things I have done previously</h1>
