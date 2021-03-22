@@ -11,8 +11,8 @@ export default function PreviousThings() {
         <p>
             Have a look at my previous projects!
             <ul>
-                <li><a href="https://quiz-json.herokuapp.com" className={styles.link}>Quiz-app</a></li>
-                <li><a href="https://telephone-ex.herokuapp.com/" className={styles.link}>Fullstack course</a></li>
+                <li><a href="https://quiz-json.herokuapp.com" className={styles.link} target="_blank">Quiz-app</a></li>
+                <li><a href="https://telephone-ex.herokuapp.com/" className={styles.link} target="_blank">Fullstack course</a></li>
             </ul>
         </p>
         <p>
