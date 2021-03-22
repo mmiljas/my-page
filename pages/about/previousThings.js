@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import styles from './PreviousThings.module.css' 
+import Image from 'next/image'
 
 
 export default function PreviousThings() {
