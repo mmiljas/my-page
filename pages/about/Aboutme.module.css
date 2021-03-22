@@ -1,0 +1,18 @@
+.container {
+    min-height: 100vh;
+    padding: 0 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color:rgb(32, 32, 32);
+  }
+
+.link {
+    color:turquoise
+}
+
+.pics {
+    border-radius: 140;
+}
